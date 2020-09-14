@@ -1,0 +1,2 @@
+# YuchCoin
+WEB cryptocurrency.
